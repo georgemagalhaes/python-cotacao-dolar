@@ -21,7 +21,6 @@ os.system ("cls")
 #import os
 #os.system ("clear")
 
-
 # URL da API de cotação do dólar em relação ao Real
 url = 'https://economia.awesomeapi.com.br/json/last/USD-BRL'
 
