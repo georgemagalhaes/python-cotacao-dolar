@@ -1,5 +1,7 @@
 # python-cotacao-dolar
 
+Cotação do dólar em relação ao real.
+
 a) Este código foi escrito no ambiente MS Windows, portanto, se ele for utilizado no Linux é necessário fazer a conversão do arquivo:
 > dos2unix [nome do arquivo].py
 
