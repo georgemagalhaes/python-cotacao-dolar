@@ -1,7 +1,7 @@
 '''
 Autor: George Antunes de Abreu Magalhães
-Exercício: Cotação do dólar
-Disciplina: Requests, Json
+Tema: Cotação do dólar
+Bibliotecas: Requests, Json
 Data: 04/12/2022
 e-mail: georgemagalhaes@gmail.com
 '''
